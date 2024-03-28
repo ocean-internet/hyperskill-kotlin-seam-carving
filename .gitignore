@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Seam Carving/*
+!/Seam Carving/task/
+/Seam Carving/task/*
+!/Seam Carving/task/src
+!/Seam Carving/task/test
